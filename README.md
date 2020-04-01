@@ -1,0 +1,2 @@
+# GrowthCurveCovid19
+Identified the optimal model from a given simple parametric family (polynomials up to 9th degree) that best characterizes the growth curve of COVID-19 cases without overfitting the data(using Occam’s razor principle). Time series data for different countries,including (but not limited to) China, SouthKorea, Japan,Italy, Spain, France, UK, Germany, Netherlands,USA,Greece. were used
